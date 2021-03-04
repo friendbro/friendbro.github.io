@@ -1,0 +1,10 @@
+.not-found{
+    color: white;
+    font-size: 30px;
+    font-family: PT sans;
+}
+
+.not-found-div{
+    margin: 20px;
+    padding: 20px;
+}
